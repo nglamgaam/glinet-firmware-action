@@ -6,7 +6,8 @@ feeds:
     branch: master
 packages:
   - luci-app-mwan3
-
+  - luci-app-adguardhome
+  - luci-app-smartdns
 
 
 diffconfig: |

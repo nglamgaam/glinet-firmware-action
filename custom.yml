@@ -7,7 +7,7 @@ feeds:
 packages:
   - luci-app-mwan3
   - luci-app-adguardhome
-  - luci-app-smartdns
+
 
 
 diffconfig: |
